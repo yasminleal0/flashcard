@@ -1,5 +1,5 @@
 criaCartao(
-    'genetica',
+    'Genetica',
     'Um homem apresenta o genótipo Aa Bb CC dd e sua esposa, o genótipo aa Bb cc Dd. Qual é a probabilidade desse casal ter um filho do sexo masculino e portador dos genes bb?',
     '1/8'
 )
@@ -11,25 +11,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Genetica',
     'O que é uma funçaõ?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Genetica',
     'Como se diz oi em inglês?',
     'Oi em inglês é HI (RAI)'
 )
 
 criaCartao(
-    'Biologia',
+    'Genetica',
     'Quem é considerado o pai da genética?',
     'Gregor Mendel'
 )
 
 criaCartao(
-    'Matemática',
+    'Genetica',
     'Qual é o valor de Pi?',
     '3,14'
 )
