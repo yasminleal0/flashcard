@@ -1,13 +1,13 @@
 criaCartao(
     'genetica',
-    'g',
+    'Um homem apresenta o genótipo Aa Bb CC dd e sua esposa, o genótipo aa Bb cc Dd. Qual é a probabilidade desse casal ter um filho do sexo masculino e portador dos genes bb?',
     '1/8'
 )
 
 criaCartao(
     'Genetica',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Pares de genes, com segregação independente podem agir, conjuntamente, na determinação de uma mesma característica fenotípica. Este fenômeno é conhecido como:',
+    'interação gênica'
 )
 
 criaCartao(
