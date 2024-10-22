@@ -1,6 +1,6 @@
 criaCartao(
     'genetica',
-    'l ter um filho do sexo masculino e portador dos genes bb?',
+    'g',
     '1/8'
 )
 
